@@ -1,0 +1,12 @@
+::selection{
+    background-color: transparent;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    cursor: default;
+}
+#board{
+    /* background-color: skyblue; */
+    background-image: url("./images/flappybirdbg.png");
+}
